@@ -1,0 +1,2 @@
+Number of free pages decreased
+Change in number of free pages after reaping child process: 0
